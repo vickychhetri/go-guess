@@ -1,4 +1,5 @@
 ******************************** GUESS GAME *******************************
+
 Press Y to start Game: y
 GAME STARTED
 Guess::  89
@@ -27,5 +28,8 @@ Guess::  72
 Oops, Your Guess is LOW
 Guess::  74
 74
+
 You won the game , choice :: 74 vs Target :: 74 Matched
+
 ******************************** FINISH GUESS GAME *******************************
+
